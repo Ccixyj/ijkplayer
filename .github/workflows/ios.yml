@@ -15,7 +15,7 @@ on:
 jobs:
   build:
     name: build-ios-ijk-framework
-    runs-on: macos-14
+    runs-on: macos-15-large
 
     steps:
     - name: Checkout
