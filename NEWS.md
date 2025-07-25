@@ -3,6 +3,7 @@ tag k0.8.9
 - ffmpeg: upgrade to 4.0
 - upgrade ndk to r27c
 - merge android three so to one
+- android page size use 16KB，#117
 
 tag k0.8.8
 --------------------------------
